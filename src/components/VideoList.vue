@@ -1,6 +1,6 @@
 <template>
     <ul>
-        VideoList
+        VideoList dev
     </ul>
 
 </template>
