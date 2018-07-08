@@ -1,6 +1,6 @@
 <template>
     <ul>
-        VideoList
+        VideoList master
     </ul>
 
 </template>
